@@ -2,9 +2,9 @@
 
 ## Code and Resources Used
 
-**Programming Language:** Python
-**Packages:** 
-**Dataset source:** https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor
+**Programming Language:** Python  
+**Packages:**  
+**Dataset source:** https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor  
 
 ## Data Cleaning
 
