@@ -12,4 +12,9 @@
 
 ## Model Building
 
+I tried three different models:
+* XGBoosted Decision Tree Regression
+* ...
+* ...
+
 ## Model Performance
