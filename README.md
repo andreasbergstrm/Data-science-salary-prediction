@@ -1,5 +1,11 @@
 # Data Science Salary Prediction: Project Overview
 
+* (Basic Description)
+* Cleaning/engineering
+* Models used?
+* Cross Validation?
+* Results?
+
 ## Code and Resources Used
 
 **Programming Language:** Python  
