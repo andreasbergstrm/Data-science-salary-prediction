@@ -4,7 +4,7 @@
 
 **Programming Language:** Python  
 **Packages:**  
-**Dataset source:** https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor  
+**Dataset Source:** https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor  
 
 ## Data Cleaning
 
