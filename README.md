@@ -1,10 +1,9 @@
 # Data Science Salary Prediction: Project Overview
 
 * Built a machine learning model to predict average salary of data scientists in the US (RMSE ~ $14K), based on data from Glassdoor.
-* Engineered features...
-* Models used?
-* Cross Validation?
-* Results?
+* Engineered features by creating new variables, using one-hot and numerical encoding for categorical variables and more.
+* I built and compared three models: Multiple Linear, Lasso and XGBoosted Decision Tree regressions.
+* Used GridSearchCV to optimize hyperparameters and reach the best model.
 
 ## Code and Resources Used
 
