@@ -25,6 +25,8 @@ I tried three different models:
 * ...
 * ...
 
+![](feature_importance_xgb.png)
+
 ![](xgb_tree.png)
 
 ## Model Performance
