@@ -4,7 +4,7 @@
 * Engineered features by creating new variables, using one-hot and numerical encoding for categorical variables and more.
 * Trained and compared three models: Multiple Linear, Lasso and XGBoosted Decision Tree regressions.
 * Optimized hyperparameters with GridSearchCV to reach the best model.
-* Vizualized attributes of the best model (XGBoost) such as feature importance and the decision tree.
+* Vizualized attributes of the best model (XGBoost), such as feature importance and the decision tree.
 
 ## Code and Resources Used
 
