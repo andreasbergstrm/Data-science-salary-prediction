@@ -26,7 +26,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 Feature engineering.  
 
-Metric choice.  
+I trained three different models and for performance evaluation I used three different metrics: Mean Squared Error, Root Mean Squared Error and Mean Absolute Error. 
 
 I tried three different models:
 * **XGBoosted Decision Tree Regression** -   
@@ -43,7 +43,7 @@ Details of XGBoost.
 
 ## Model Performance
 
-The XGBoosted Decision Tree Regression model was the best performer by far with any metric I tested.
+The XGBoosted Decision Tree Regression model was the best performer by far no matter the metric used.
 
 * **XGBoosted Decision Tree Regression:** RMSE =  
 * **Multiple Linear Regression:** RMSE =  
