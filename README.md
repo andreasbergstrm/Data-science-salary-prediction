@@ -9,7 +9,7 @@
 ## Code and Resources Used
 
 **Programming Language:** Python  
-**Packages:**  
+**Packages:** pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, xgboost, graphviz
 **Dataset Source:** https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor  
 
 ## Data Cleaning
