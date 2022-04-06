@@ -16,11 +16,15 @@
 
 ## EDA
 
+![](sector_dist.png)
+
 ## Model Building
 
 I tried three different models:
 * XGBoosted Decision Tree Regression
 * ...
 * ...
+
+![](xgb_tree.png)
 
 ## Model Performance
