@@ -18,7 +18,7 @@ The dataset contained many redundant and impractical variables which had to be d
 
 ## EDA
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below is a highlight of the distribution of which sector data scientists in this sample works in.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below is a highlight of the distribution of which sectors data scientists in this sample works in.
 
 ![](sector_dist.png)
 
