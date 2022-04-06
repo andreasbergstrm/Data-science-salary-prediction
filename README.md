@@ -33,9 +33,7 @@ The three models I used were:
 * **XGBoosted Decision Tree Regression** - Uses extreme gradient boosting to reduce bias and thus increase predictive performance.  
 * **Lasso Regression** - Because of the sparse data from many categorical variables, I thought that the lasso regression would be effective.   
 
-Cross-validation.  
-
-Details of XGBoost.  
+For the XGBoosted model I used the grid search cross validation method to tune the hyperparameters and to reach the best model. Since the XGBoosted model also turned out to be the best performing model, I visualized the relative feature importance in that model and the resulting decision tree, as can be seen below.
 
 ![](feature_importance_xgb.png)
 
