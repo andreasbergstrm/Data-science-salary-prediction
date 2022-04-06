@@ -24,13 +24,27 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Model Building
 
+Feature engineering.  
+
+Metric choice.  
+
 I tried three different models:
-* XGBoosted Decision Tree Regression
-* ...
-* ...
+* **XGBoosted Decision Tree Regression** -   
+* **Multiple Linear Regression** - A comparative baseline.  
+* **Lasso Regression** -   
+
+Cross-validation.  
+
+Details of XGBoost.  
 
 ![](feature_importance_xgb.png)
 
 ![](xgb_tree.png)
 
 ## Model Performance
+
+The XGBoosted Decision Tree Regression model was the best performer by far with any metric I tested.
+
+* **XGBoosted Decision Tree Regression:** RMSE =  
+* **Multiple Linear Regression:** RMSE =  
+* **Lasso Regression:** RMSE =     
