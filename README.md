@@ -3,7 +3,7 @@
 * Built a machine learning model to predict average salary of data scientists in the US (RMSE ~ $14K), based on data from Glassdoor.
 * Engineered features by creating new variables, using one-hot and numerical encoding for categorical variables and more.
 * Trained and compared three models: Multiple Linear, Lasso and XGBoosted Decision Tree regressions.
-* Used GridSearchCV to optimize hyperparameters and reach the best model.
+* Optimized hyperparameters with GridSearchCV to reach the best model.
 
 ## Code and Resources Used
 
