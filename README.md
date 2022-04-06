@@ -43,8 +43,8 @@ Details of XGBoost.
 
 ## Model Performance
 
-The XGBoosted Decision Tree Regression model was the best performer by far no matter the metric used.
+The XGBoosted Decision Tree Regression model was the best performer by far no matter the metric used including Root Mean Squared Error, which is expressed in terms of average salary per year in thousands of dollars.
 
-* **XGBoosted Decision Tree Regression:** RMSE =  
-* **Multiple Linear Regression:** RMSE =  
-* **Lasso Regression:** RMSE =     
+* **XGBoosted Decision Tree Regression:** RMSE = 14.142  
+* **Multiple Linear Regression:** RMSE = 17.666  
+* **Lasso Regression:** RMSE = 19.580    
