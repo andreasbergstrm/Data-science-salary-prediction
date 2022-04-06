@@ -26,7 +26,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 Feature engineering.  
 
-I trained three different models and for performance evaluation I used three different metrics: Mean Squared Error, Root Mean Squared Error and Mean Absolute Error. 
+I trained three different models and for performance evaluation I used three different metrics: Mean Squared Error, Root Mean Squared Error and Mean Absolute Error. Any model that does well in one metric is likely to do well in the others, but I wanted to compare the MSE performance which heavily punishes large individuals errors with more interpretable metrics such as RMSE and MAE.
 
 The three models I used were:
 * **Multiple Linear Regression** - A solid comparative baseline model.  
