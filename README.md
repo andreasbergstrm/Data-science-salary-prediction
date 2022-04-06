@@ -14,6 +14,8 @@
 
 ## Data Cleaning
 
+The dataset contained many redundant and impractical variables which had to be dropped or transformed. There were also many missing data points that had to be dealt with via imputation or dropping variables with too much missing data.
+
 ## EDA
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below is a highlight of the distribution of which sector data scientists in this sample works in.
