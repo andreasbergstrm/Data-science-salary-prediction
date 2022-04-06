@@ -28,7 +28,7 @@ Feature engineering.
 
 I trained three different models and for performance evaluation I used three different metrics: Mean Squared Error, Root Mean Squared Error and Mean Absolute Error. 
 
-I tried three different models:
+The three models I used were:
 * **Multiple Linear Regression** - A solid comparative baseline model.  
 * **XGBoosted Decision Tree Regression** - Uses extreme gradient boosting to reduce bias and thus increase predictive performance.  
 * **Lasso Regression** - Because of the sparse data from many categorical variables, I thought that the lasso regression would be effective.   
