@@ -24,7 +24,9 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Model Building
 
-Feature engineering.  
+First, I reconfigured some of the categorical variables by grouping together similar or uncommon categories within the different variables, thus creating larger and fewer groups within each variable. Then I checked the statistical significance of some of the technical skills employees had and the dropped those who seemed to be significantly associated with the average salary among data scientists. After that I created some new variables out of existing ones that I thought could help predict the salary of data scientists.
+
+Finally, I transformed the categorical variables with either one-hot encoding or numerical depending depending on the number of categories within each variable. And before training the models I split the data into train and tests sets with a test size of 20%.
 
 I trained three different models and for performance evaluation I used three different metrics: Mean Squared Error, Root Mean Squared Error and Mean Absolute Error. Any model that does well in one metric is likely to do well in the others, but I wanted to compare the MSE performance which heavily punishes large individuals errors with more interpretable metrics such as RMSE and MAE.
 
